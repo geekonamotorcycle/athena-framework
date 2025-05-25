@@ -124,6 +124,16 @@ Observability tooling, templates for Zabbix, Prometheus, and Grafana integration
 
 Security-focused configurations, baselines, and hardening checklists.
 
+### Sentinel: Security & Policy Modules
+
+The Sentinel directory includes system security, endpoint protection, and mobile device management templates.
+
+#### System Administration → MDM → Apple Business Manager
+
+- [FileVault IRK Template for macOS MDM](sentinel/system-administration/mdm/apple-business-manager/filevault-irk/README.md)  
+  Templates and instructions for generating and deploying a FileVault Institutional Recovery Key (IRK) certificate
+  compatible with Apple Business Manager, Microsoft Intune, JAMF, and Hexnode.
+
 ### [relics/](./relics)
 
 Deprecated or superseded templates retained for legacy support or audit history.
